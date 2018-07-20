@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Santhiya's Blog from GIT
 
-I'm glad you are here. I plan to talk about ...
+Welcome! I will be posting my resumes and projects on here.
+
+HAGD!
